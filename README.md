@@ -34,6 +34,6 @@ This repository contains four labs, focusing on biological data analysis and mod
 ### **Tasks**
 + Simulate **Wright-Fisher** models with and without crossover, tracking mutant gene proportions.
 + Compute **Markov** transition matrices and analyze evolutionary dynamics over multiple generations.
-+ Plot and compare results from **Wright-Fisher** simulations and **Markov processes*.
++ Plot and compare results from **Wright-Fisher** simulations and **Markov processes**.
 + Interpret differences between asexual and sexual reproduction models.
 + Use **`matplotlib`** for visualizing genetic mutation frequencies and **population dynamics.**
