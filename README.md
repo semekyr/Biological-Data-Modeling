@@ -1,6 +1,6 @@
 # Biological-Data-Modeling
 ## Overview:
-This repository contains two labs, focusing on biological data analysis and modelling using Python. 
+This repository contains four labs, focusing on biological data analysis and modelling using Python. 
 ## Lab 1: Inferring Protein Concentration from RNA Data:
 📌 **Objective**: Analyze and model protein concentrations based on RNA expression data.
 ## Tasks:
